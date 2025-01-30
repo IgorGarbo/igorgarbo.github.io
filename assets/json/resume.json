@@ -1,39 +1,62 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+  "informações basicas": {
+    "nome": "Igor Guerato Garbo",
+    "titulo": "Analista de Dados",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+    "url": "https://igorgarbo.github.io/",
+    "resumo": "Graduado em Engenharia Elétrica pela Universidade Paulista, sou apaixonado por tecnologia. Minha carreira tem sido marcada pela inovação de processos nas empresas em que atuei./nComo estagiário de Engenharia Elétrica, trabalhei por 3 anos com planejamento e controle da calibração de ferramentas, prestando suporte às equipes de atendimento e vendas na RP Medical Systems. Durante esse período, otimizei o processo de digitalização de ordens de serviço, eliminando um déficit de 6 meses. Além disso, automatizei o processo de conferência de comissões para a equipe comercial, o que reduziu significativamente o tempo do processo e proporcionou melhor previsibilidade de pagamentos para o setor financeiro./nEm 2019, tive a oportunidade de trabalhar por 1 ano como Técnico de Sistemas e Instrumentos na Digital Diagnósticos Eireli, realizando manutenção e instalação de monitores radiológicos. Além das funções técnicas, também assumi a responsabilidade de analisar o mercado concorrente, pois a Digital era representante da multinacional Eizo. Na época, utilizei a plataforma governamental SISCORI para filtrar as importações da concorrência, aplicando processamento de linguagem natural para fazer previsões sobre estoques, entradas e números de vendas da concorrência./nEsse feito resultou em uma transferência em 2020 para a fintech Homelend, uma empresa do mesmo grupo econômico. Nessa transição, migrei para a área de Análise de Dados, onde trabalhei por 2 anos, sendo responsável por desenhar e criar processos de análise de dados dos resultados dos setores de vendas e pré-venda, além de desenvolver relatórios mais detalhados e pipelines de dados. Também fui responsável por realizar processos de avaliação imobiliária automatizada utilizando web scrapers./nMinha carreira é marcada pela flexibilidade e dedicação aos estudos. Minha transição de carreira reflete meu compromisso com o aprendizado contínuo e a aplicação prática do conhecimento adquirido.",
+    "endereço": {
+      "Estado": "SP",
+      "cidade": "São Paulo"
     },
-    "profiles": [
+    "perfis": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "rede": "linkedin",
+        "usuario": "igor-guerato-garbo",
+        "url": "https://www.linkedin.com/in/igor-guerato-garbo/"
+      },
+      {
+        "rede": "kaggle",
+        "usuario": "igor garbo",
+        "url": "https://www.kaggle.com/iugus1"
+      },
+      {
+        "rede": "github",
+        "usuario": "IgorGarbo",
+        "url": "https://github.com/IgorGarbo"
       }
     ]
   },
-  "work": [
+  "Experiencia": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Homelend Tecnologia Ltda.",
+      "position": "Analista de Redes e de Comunicação de Dados",
+      "url": "",
+      "startDate": "2020-08-01",
+      "endDate": "2022-11-01",
+      "summary": "Durante minha jornada na empresa fui responsável por iniciar e desenhar, em conjunto com os gestores, o processo de análise de dados, apresentação de dashboards e criação de indicadores para todas as operações da empresa, além de realizar processos de avaliação imobiliária através de dados obtidos via web scrapping.Entre minhas principais atribuições estavam análise de viabilidade de mercado para construção e venda casas em novos loteamentos, criação de reports para análise de resultados de vendas, análise de produtividade do time de vendas, pré-processamento de dados para upload em data warehouse, garantir integridade da LGPD nas análises realizadas.",
+      "highlights": ["Power BI", "Design de Dashboards","Web Scrapping", "Python", "QuickSight", "Analise de vendas e Resultados", "suporte tecnico"]
+    },
+    {
+      "name": "Diagital Diagnosticos Digitais",
+      "position": "Técnico de manutenção de sistemas e instrumentos",
+      "url": "",
+      "startDate": "2019-04-01",
+      "endDate": "2020-08-01",
+      "summary": "Durante a minha jornada na diagital atuei na operação relativa à representação da multinacional Eizo monitores, dentre minhas principais realizações na empresa temos a automatização do processo de analise de concorrência, via plataforma governamental siscori, onde com processamento de linguagem natural apresentamos dashboards com resultados de importação dos concorrentes trazendo maior competitividade a empresa.",
+      "highlights": ["Power BI", "Design de Dashboards","Controle de Estoque", "Excel", "Controle de Qualidade", "Analise de dados de vendas e concorrencia", "suporte tecnico"]
+    },
+    {
+      "name": "RP Medical Systems",
+      "position": "Estagiário de engenharia elétrica",
+      "url": "",
+      "startDate": "2016-09-01",
+      "endDate": "2019-04-01",
+      "summary": "Atuei auxiliando equipe de engenheiros e vendas tendo como principais resultados a automatização do processo de digitalização de Ordens de Serviços,resolvendo um déficit de 6 meses, e realizar a automatização do processo de conferência de comissões transformando um processo com duração de 1 semana para apenas 1 dia.",
+      "highlights": ["Excel", "VBA", "Resolução de Problemas", "Controle de Qualidade", "Planejamento de Agenda Tecnica", "Controle de Agenda de Calibração", "Analise de dados de vendas", "suporte tecnico"]
     }
   ],
-  "volunteer": [
+  "voluntariado": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -45,20 +68,19 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
+  "educação": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Universidade Paulista - UNIP",
+      "location": "São Paulo, SP",
+      "url": "https://unip.br/",
+      "area": "Engenharia Elétrica com enfasê em Eletrônica",
+      "studyType": "Bacharelado",
+      "startDate": "2016-01-01",
+      "endDate": "2024-07-01",
+      "courses": []
     }
   ],
-  "awards": [
+  "premios": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -67,51 +89,23 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
+  "certificados": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Big Data Analytics com R e Microsoft Azure Machine Learning",
+      "date": "2021-07-01",
+      "issuer": "Data Science Academy",
+      "url": "https://mycourse.app/GGyywnpZqkSjbfCFA",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Microsofte Power BI para Data Science, Versão 2.0",
+      "date": "2021-04-01",
+      "issuer": "Data Science Academy",
+      "url": "https://mycourse.app/Af499VMgdR1F5Wd5A",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  "publicações": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -134,38 +128,81 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
+  "habilidades": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "nome": "Python",
+      "nivel": "Avançado",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "palavras_chave": [
+        "Web Scrapping",
+        "Pandas",
+        "Numpy",
+        "POO",
+        "LMM",
+        "ETL"
+      ]
+    },
+    {
+      "nome": "SQL",
+      "nivel": "Avançado",
+      "icon": "fa-solid fa-hashtag",
+      "palavras_chave": [
+        "Query Avançada",
+        "Merges",
+        "ETL"
+      ]
+    },
+    {
+      "nome": "R",
+      "nivel": "Avançado",
+      "icon": "fa-solid fa-hashtag",
+      "palavras_chave": [
+        "Analise Statistica",
+        "LMM",
+        "ETL"
+      ]
+    },
+    {
+      "nome": "Power BI",
+      "nivel": "Avançado",
+      "icon": "fa-solid fa-hashtag",
+      "palavras_chave": [
+        "Estruturação de Dados da Consulta",
+        "ETL",
+        "Power Query",
+        "M",
+        "DAX",
+        "Desing de Dashboards"
+      ]
+    },
+    {
+      "nome": "Excel",
+      "nivel": "Avançado",
+      "icon": "fa-solid fa-hashtag",
+      "palavras_chave": [
+        "Power Query",
+        "Macros",
+        "VBA"
       ]
     }
   ],
-  "languages": [
+  "linguas": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "linguagem": "Português",
+      "fluencia": "Nativo",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "linguagem": "inglês",
+      "fluencia": "Avançado",
       "icon": ""
     }
   ],
-  "interests": [
+  "interesses": [
     {
-      "name": "Physics",
+      "nome": "Physics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
+      "palavras_chave": [
         "Quantum Mechanics",
         "Quantum Computing",
         "Quantum Information",
@@ -175,7 +212,7 @@
       ]
     }
   ],
-  "references": [
+  "referencias": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
@@ -187,7 +224,7 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
-  "projects": [
+  "projetos": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
