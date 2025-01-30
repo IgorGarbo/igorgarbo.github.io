@@ -16,9 +16,9 @@
             {% for item in content.items %}
               {% assign i = i | plus: 1 %}
             {% endfor %}
-            <td colspan="{{ i }}" class="list-group-category">{{ content.name }}</td>
+            <td colspan="{{ i }}" class="list-group-category">{{ content.nome }}</td>
           </tr>
-          {% for item in content.keywords %}
+          {% for item in content.palavras_chave %}
             <tr>
               <td></td>
               <td class="list-group-name">
