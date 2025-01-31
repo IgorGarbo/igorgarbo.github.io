@@ -4,12 +4,12 @@
     "titulo": "Analista de Dados",
     "image": "",
     "url": "https://igorgarbo.github.io/",
-    "resumo": "Graduado em Engenharia Elétrica pela Universidade Paulista, sou apaixonado por tecnologia. Minha carreira tem sido marcada pela inovação de processos nas empresas em que atuei./nComo estagiário de Engenharia Elétrica, trabalhei por 3 anos com planejamento e controle da calibração de ferramentas, prestando suporte às equipes de atendimento e vendas na RP Medical Systems. Durante esse período, otimizei o processo de digitalização de ordens de serviço, eliminando um déficit de 6 meses. Além disso, automatizei o processo de conferência de comissões para a equipe comercial, o que reduziu significativamente o tempo do processo e proporcionou melhor previsibilidade de pagamentos para o setor financeiro./nEm 2019, tive a oportunidade de trabalhar por 1 ano como Técnico de Sistemas e Instrumentos na Digital Diagnósticos Eireli, realizando manutenção e instalação de monitores radiológicos. Além das funções técnicas, também assumi a responsabilidade de analisar o mercado concorrente, pois a Digital era representante da multinacional Eizo. Na época, utilizei a plataforma governamental SISCORI para filtrar as importações da concorrência, aplicando processamento de linguagem natural para fazer previsões sobre estoques, entradas e números de vendas da concorrência./nEsse feito resultou em uma transferência em 2020 para a fintech Homelend, uma empresa do mesmo grupo econômico. Nessa transição, migrei para a área de Análise de Dados, onde trabalhei por 2 anos, sendo responsável por desenhar e criar processos de análise de dados dos resultados dos setores de vendas e pré-venda, além de desenvolver relatórios mais detalhados e pipelines de dados. Também fui responsável por realizar processos de avaliação imobiliária automatizada utilizando web scrapers./nMinha carreira é marcada pela flexibilidade e dedicação aos estudos. Minha transição de carreira reflete meu compromisso com o aprendizado contínuo e a aplicação prática do conhecimento adquirido.",
+    "resumo": "Graduado em Engenharia Elétrica pela Universidade Paulista, sou apaixonado por tecnologia. Minha carreira tem sido marcada pela inovação de processos nas empresas em que atuei. Sempre empolgado pela inovação e reflexão critica busco sempre novos aprendizados e a forma mais efetiva e rapida de concluir tarefas e processos. Esta busca me levou a migrar para area de análise de dados onde a busca por otimizar, diagnosticar e observar processos e operações é a maior contribuição ",
     "endereço": {
       "Estado": "SP",
       "cidade": "São Paulo"
     },
-    "perfis": [
+    "redes Sociais": [
       {
         "rede": "linkedin",
         "usuario": "igor-guerato-garbo",
@@ -35,7 +35,7 @@
       "startDate": "2020-08-01",
       "endDate": "2022-11-01",
       "summary": "Durante minha jornada na empresa fui responsável por iniciar e desenhar, em conjunto com os gestores, o processo de análise de dados, apresentação de dashboards e criação de indicadores para todas as operações da empresa, além de realizar processos de avaliação imobiliária através de dados obtidos via web scrapping.Entre minhas principais atribuições estavam análise de viabilidade de mercado para construção e venda casas em novos loteamentos, criação de reports para análise de resultados de vendas, análise de produtividade do time de vendas, pré-processamento de dados para upload em data warehouse, garantir integridade da LGPD nas análises realizadas.",
-      "highlights": ["Power BI", "Design de Dashboards","Web Scrapping", "Python", "QuickSight", "Analise de vendas e Resultados", "suporte tecnico"]
+      "highlights": ["Power BI", "Design de Dashboards", "Web Scrapping", "Python", "QuickSight", "Analise de vendas e Resultados", "suporte tecnico"]
     },
     {
       "name": "Diagital Diagnosticos Digitais",
@@ -44,7 +44,15 @@
       "startDate": "2019-04-01",
       "endDate": "2020-08-01",
       "summary": "Durante a minha jornada na diagital atuei na operação relativa à representação da multinacional Eizo monitores, dentre minhas principais realizações na empresa temos a automatização do processo de analise de concorrência, via plataforma governamental siscori, onde com processamento de linguagem natural apresentamos dashboards com resultados de importação dos concorrentes trazendo maior competitividade a empresa.",
-      "highlights": ["Power BI", "Design de Dashboards","Controle de Estoque", "Excel", "Controle de Qualidade", "Analise de dados de vendas e concorrencia", "suporte tecnico"]
+      "highlights": [
+        "Power BI",
+        "Design de Dashboards",
+        "Controle de Estoque",
+        "Excel",
+        "Controle de Qualidade",
+        "Analise de dados de vendas e concorrencia",
+        "suporte tecnico"
+      ]
     },
     {
       "name": "RP Medical Systems",
@@ -53,7 +61,16 @@
       "startDate": "2016-09-01",
       "endDate": "2019-04-01",
       "summary": "Atuei auxiliando equipe de engenheiros e vendas tendo como principais resultados a automatização do processo de digitalização de Ordens de Serviços,resolvendo um déficit de 6 meses, e realizar a automatização do processo de conferência de comissões transformando um processo com duração de 1 semana para apenas 1 dia.",
-      "highlights": ["Excel", "VBA", "Resolução de Problemas", "Controle de Qualidade", "Planejamento de Agenda Tecnica", "Controle de Agenda de Calibração", "Analise de dados de vendas", "suporte tecnico"]
+      "highlights": [
+        "Excel",
+        "VBA",
+        "Resolução de Problemas",
+        "Controle de Qualidade",
+        "Planejamento de Agenda Tecnica",
+        "Controle de Agenda de Calibração",
+        "Analise de dados de vendas",
+        "suporte tecnico"
+      ]
     }
   ],
   "voluntariado": [
@@ -70,23 +87,23 @@
   ],
   "educação": [
     {
-      "institution": "Universidade Paulista - UNIP",
+      "curso": "Engenharia Elétrica com Enfasê em Eletrônica",
+      "instituicao": "Universidade Paulista - UNIP",
+      "categoria": "Bacharelado",
       "location": "São Paulo, SP",
       "url": "https://unip.br/",
-      "area": "Engenharia Elétrica com enfasê em Eletrônica",
-      "studyType": "Bacharelado",
       "startDate": "2016-01-01",
       "endDate": "2024-07-01",
-      "courses": []
+      "composisao_curso": []
     }
   ],
   "premios": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificados": [
@@ -133,57 +150,31 @@
       "nome": "Python",
       "nivel": "Avançado",
       "icon": "fa-solid fa-hashtag",
-      "palavras_chave": [
-        "Web Scrapping",
-        "Pandas",
-        "Numpy",
-        "POO",
-        "LMM",
-        "ETL"
-      ]
+      "palavras_chave": ["Web Scrapping", "Pandas", "Numpy", "POO", "LMM", "ETL"]
     },
     {
       "nome": "SQL",
       "nivel": "Avançado",
       "icon": "fa-solid fa-hashtag",
-      "palavras_chave": [
-        "Query Avançada",
-        "Merges",
-        "ETL"
-      ]
+      "palavras_chave": ["Query Avançada", "Merges", "ETL"]
     },
     {
       "nome": "R",
       "nivel": "Avançado",
       "icon": "fa-solid fa-hashtag",
-      "palavras_chave": [
-        "Analise Statistica",
-        "LMM",
-        "ETL"
-      ]
+      "palavras_chave": ["Analise Statistica", "LMM", "ETL"]
     },
     {
       "nome": "Power BI",
       "nivel": "Avançado",
       "icon": "fa-solid fa-hashtag",
-      "palavras_chave": [
-        "Estruturação de Dados da Consulta",
-        "ETL",
-        "Power Query",
-        "M",
-        "DAX",
-        "Desing de Dashboards"
-      ]
+      "palavras_chave": ["Estruturação de Dados da Consulta", "ETL", "Power Query", "M", "DAX", "Desing de Dashboards"]
     },
     {
       "nome": "Excel",
       "nivel": "Avançado",
       "icon": "fa-solid fa-hashtag",
-      "palavras_chave": [
-        "Power Query",
-        "Macros",
-        "VBA"
-      ]
+      "palavras_chave": ["Power Query", "Macros", "VBA"]
     }
   ],
   "linguas": [
@@ -200,16 +191,19 @@
   ],
   "interesses": [
     {
-      "nome": "Physics",
+      "nome": "Eletrônica",
       "icon": "fa-solid fa-tag",
-      "palavras_chave": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "palavras_chave": ["Microcontroladores", "Industria 4.0", "Internet das Coisas", "Embarcados"]
+    },
+    {
+      "nome": "Ciencia de Dados",
+      "icon": "fa-solid fa-tag",
+      "palavras_chave": ["Analise de Dados", "LMM", "Inteligencia Artifical", "Analise de Resultados", "Melhoria de Indicadores"]
+    },
+    {
+      "nome": "Estatisca",
+      "icon": "fa-solid fa-tag",
+      "palavras_chave": ["Analise Estatistica", "Metodologias de Pesquisa", "Incertesa de Resultados", "Modelagem Estatistica"]
     }
   ],
   "referencias": [
@@ -226,12 +220,12 @@
   ],
   "projetos": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "nome": "Quantum Computing",
+      "resumo": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "destaques": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "url": ""
     }
   ]
 }

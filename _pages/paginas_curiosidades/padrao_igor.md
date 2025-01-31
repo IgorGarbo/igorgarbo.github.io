@@ -1,29 +1,3 @@
----
-layout: about
-title: Sobre
-permalink: /
-subtitle: Eng. Eletricista Apaixonado por inovação
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  #more_info: >
-
-#selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-#announcements:
-# enabled: true # includes a list of news items
-#scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-#limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
-
 Graduado em Engenharia Elétrica pela Universidade Paulista, sou apaixonado por tecnologia. Minha carreira tem sido marcada pela inovação de processos nas empresas em que atuei.
 
 Como estagiário de Engenharia Elétrica, trabalhei por 3 anos com planejamento e controle da calibração de ferramentas, prestando suporte às equipes de atendimento e vendas na RP Medical Systems. Durante esse período, otimizei o processo de digitalização de ordens de serviço, eliminando um déficit de 6 meses. Além disso, automatizei o processo de conferência de comissões para a equipe comercial, o que reduziu significativamente o tempo do processo e proporcionou melhor previsibilidade de pagamentos para o setor financeiro.
