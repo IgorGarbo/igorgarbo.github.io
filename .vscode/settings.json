@@ -1,6 +1,2 @@
 {
-    "CodeGPT.apiKey": "Ollama",
-    "[liquid]": {
-        "editor.formatOnSave": true
-    }
 }
